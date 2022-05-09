@@ -9,8 +9,7 @@ Microsoft Excel
 Microsoft Powerpoint
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+https://github.com/maggycenteno/Foundations-Group-Project/issues/1#issue-1229877864
 
 ## Room for Improvement
 Some feedback we were given was to organize plots and graphs better so it's easier to look at and more aesthetically pleasing.
